@@ -1,0 +1,1 @@
+ have been learning git today and its so awesome. I feel i am learning so much. Anyways, I am just learning how to make files and folders in git and pushing to github. 
